@@ -1,6 +1,3 @@
-Sure! Here's a `README.md` file for your GitHub repository:
-
-```markdown
 # Object Detector App
 
 This application uses the Faster R-CNN model to detect objects in uploaded images. The model is trained on the COCO dataset and can detect various objects such as people, cars, bikes, and more.
@@ -73,24 +70,3 @@ Created by [Your Name](https://www.linkedin.com/in/yourprofile/). Feel free to c
 ## License
 
 This project is licensed under the MIT License.
-```
-
-### `requirements.txt`
-
-To complete your setup, here's a `requirements.txt` file that lists the necessary dependencies:
-
-```
-streamlit
-pillow
-numpy
-matplotlib
-torch
-torchvision
-streamlit-option-menu
-```
-
-### Screenshot Examples
-
-You can add screenshots to a `screenshots` folder in your repository to show how the app looks. Make sure to include relevant screenshots such as the Home Page and Predictions.
-
-Feel free to customize the `README.md` further according to your preferences and needs.
