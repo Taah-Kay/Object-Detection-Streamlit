@@ -16,5 +16,13 @@ torch
 numpy
 pandas
 # Add any other dependencies your project requires
+streamlit
+streamlit-option-menu
+torch
+torchvision
+numpy
+pandas
+# Add any other dependencies your project requires
+
 
 
