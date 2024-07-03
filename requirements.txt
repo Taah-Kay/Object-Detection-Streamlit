@@ -5,3 +5,9 @@ matplotlib
 seaborn
 scipy
 openpyxl
+streamlit
+streamlit-option-menu
+numpy
+pandas
+# Add any other dependencies your project requires
+
