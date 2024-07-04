@@ -46,9 +46,14 @@ This application uses the Faster R-CNN model to detect objects in uploaded image
 
 ## Screenshots
 
-![image](https://github.com/ravikant-diwakar/Object-Detection-Streamlit/assets/110620635/d499d2f1-7426-4bd4-a7fc-d8263f991a46)
+| Home |
+|------|
+| ![image](https://github.com/ravikant-diwakar/Object-Detection-Streamlit/assets/110620635/d499d2f1-7426-4bd4-a7fc-d8263f991a46) |
 
-![image](https://github.com/ravikant-diwakar/Object-Detection-Streamlit/assets/110620635/5d716514-3387-4a0b-9b4e-4e66c4136cef)
+
+| Prediction |
+|------------|
+| ![image](https://github.com/ravikant-diwakar/Object-Detection-Streamlit/assets/110620635/5d716514-3387-4a0b-9b4e-4e66c4136cef) |
 
 
 ## Technologies Used
