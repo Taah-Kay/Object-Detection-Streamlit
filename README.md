@@ -72,7 +72,7 @@ Custom CSS is used to enhance the appearance of the app, including different fon
 
 ## Contact
 
-Created by [Saurabh Raj](https://github.com/saurabhraj2002). Feel free to contact me!
+Created by [Saurabh Raj](https://github.com/saurabhraj2002) Feel free to contact !
 
 ## Conributer
 - [Ravikant Diwakar](https://github.com/ravikant-diwakar)
