@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 import streamlit as st
 from PIL import Image
 import numpy as np
@@ -90,11 +83,11 @@ elif selected == "Information":
     st.write("### Model")
     st.write("The model used is Faster R-CNN with a ResNet-50 backbone and Feature Pyramid Network (FPN).")
     st.write("### Source Code")
-    st.write("You can find the source code on [GitHub](https://github.com/Saurabhraj2002?tab=repositories).")
+    st.write("You can find the source code on [GitHub](https://github.com/ravikant-diwakar).")
 
 st.sidebar.title("Contact")
 st.sidebar.info(
     """
-    Created by [Saurabh Raj](https://www.linkedin.com/in/saurabh-raj-7b1894268/)
+    Created by [Ravikant Diwakar](https://www.linkedin.com/in/ravikantdiwakar/)
     """
 )
