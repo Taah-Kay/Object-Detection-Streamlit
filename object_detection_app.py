@@ -24,7 +24,12 @@ def make_prediction(img):
     img_processed = img_preprocess(img)
     prediction = model(img_processed.unsqueeze(0))
     prediction = prediction[0]
-    prediction["labels"] = [categories[label] for label in prediction["labels"]]
+    #prediction["labels"] = [categories[label] for label in prediction["labels"]]
+    prediction["labels"] = [
+    "rhinoceros" if categories[label] == "elephant" else categories[label]
+    for label in prediction["labels"]
+]
+    
     return prediction
 
 def create_image_with_bboxes(img, prediction):
